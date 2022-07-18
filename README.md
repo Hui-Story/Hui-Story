@@ -12,9 +12,6 @@
     <a href="mailto:leejaehee0728@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   </p>
   
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=funny0728)](https://solved.ac/funny0728)
-  
   <br>
 
   <h2>💻 Tech Stack</h2>
@@ -60,4 +57,9 @@
     <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   </p>
+  
+  <br>
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=funny0728)](https://solved.ac/funny0728)
 </div>
