@@ -5,7 +5,7 @@
   
   <h3>Front-End Developer</h3>
   
-  <h5>[SSAFY, Samsung Software Academy for Youth] 삼성 청년 SW 아카데미 6기 (2021.07 ~ 2022.06)</h5>
+  <h4>[SSAFY, Samsung Software Academy for Youth] 삼성 청년 SW 아카데미 6기 (2021.07 ~ 2022.06)</h4>
   
   <p>
     <a href="https://sapphire-name-6c2.notion.site/20bd84341e3f474ba0f33482d75f8a70"><img src="https://img.shields.io/badge/Portfolio-b197fc?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
