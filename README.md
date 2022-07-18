@@ -34,10 +34,10 @@
     <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/></a>&nbsp
   </p>
   
   <h3>Back-end</h3>
