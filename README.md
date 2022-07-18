@@ -3,7 +3,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   
-  <h3>Front-End Developer</h3>
+  <h3>Front-end Developer</h3>
   
   <h4>[SSAFY, Samsung Software Academy for Youth] 삼성 청년 SW 아카데미 6기 (2021.07 ~ 2022.06)</h4>
   
